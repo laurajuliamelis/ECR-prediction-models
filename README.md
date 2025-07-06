@@ -86,5 +86,6 @@ and
 
 **Sergi Mas Herrero**  
 Accredited Researcher · Fundació Clínic-IDIBAPS
+
 Associate Professor · University of Barcelona  
 📧 sergimash@ub.edu
