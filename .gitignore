@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Dataset
+data/dades_PNS_EOR_clinical_v2.xlsx
