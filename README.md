@@ -1,8 +1,8 @@
-# EOR-prediction-FEP
+# ECR-prediction-FEP
 
-**Early Onset Response Prediction in First Episode Psychosis using Clinical and Genetic Data**
+**Early Clinical Recovery Prediction in First Episode Psychosis using Clinical and Genetic Data**
 
-This repository contains the full analysis pipeline used to develop predictive models for early onset response (EOR) to antipsychotic treatment in patients with a first episode of psychosis (FEP). The study integrates clinical and polygenic data and applies both traditional statistical modelling and machine learning techniques.
+This repository contains the full analysis pipeline used to develop predictive models for early clinical recovery (ECR) to antipsychotic treatment in patients with a first episode of psychosis (FEP). The study integrates clinical and polygenic data and applies both traditional statistical modelling and machine learning techniques.
 
 ---
 
@@ -11,8 +11,8 @@ This repository contains the full analysis pipeline used to develop predictive m
 The goal of this project is to identify early predictors of treatment response by developing a clinically interpretable model. The model includes baseline clinical variables, cognitive assessments, and polygenic risk scores (PRS) for obstetric, psychiatric and biological traits.
 
 - **Cohort**: PEPs (n = 236)
-- **Target variable**: Early Onset Response (EOR) at 2 months
-- **Predictors**: Baseline clinical variables, neurocognition, and 7 PRSs
+- **Target variable**: Early Clinical Recovery (ECR) at 1 year.
+- **Predictors**: Baseline clinical variables  and 7 PRSs
 
 ---
 
@@ -77,14 +77,14 @@ This code is released under the [MIT License](LICENSE).
 
 For questions, suggestions, or collaboration opportunities, please contact:
 
-**Laura Julià Melis**  
-Bioestatistician · Fundació Clínic-IDIBAPS  
-PhD Candidate · University of Barcelona  
-📧 laurajulia@ub.edu
-
-and 
-
 **Sergi Mas Herrero**  
 Accredited Researcher · Fundació Clínic-IDIBAPS
 Associate Professor · University of Barcelona  
 📧 sergimash@ub.edu
+
+and 
+
+**Laura Julià Melis**  
+Bioestatistician · Fundació Clínic-IDIBAPS  
+PhD Candidate · University of Barcelona  
+📧 laurajulia@ub.edu
