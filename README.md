@@ -78,7 +78,7 @@ This code is released under the [MIT License](LICENSE).
 For questions, suggestions, or collaboration opportunities, please contact:
 
 **Sergi Mas Herrero**  
-Accredited Researcher · Fundació Clínic-IDIBAPS
+Accredited Researcher · Fundació Clínic-IDIBAPS␣␣  
 Associate Professor · University of Barcelona  
 📧 sergimash@ub.edu
 
