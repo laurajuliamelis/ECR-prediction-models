@@ -56,7 +56,7 @@ To reproduce the full analysis:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/EOR-prediction-FEP.git
+   git clone https://github.com/laurajuliamelis/EOR-prediction-FEP.git
    ```
 
 2. Open R or RStudio and set the working directory to the repo folder.
